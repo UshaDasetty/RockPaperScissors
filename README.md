@@ -14,10 +14,6 @@ npm install
 ```
 npm run start
 ```
-3. To run the test case:
-```
-npm run test
-```
 
 # Game explaination
 1. When the game start, you will be asked choose to start a new game. Y -> continue,  n or any other answer -> exit the game.
